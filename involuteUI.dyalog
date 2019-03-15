@@ -1,8 +1,9 @@
  r←involuteUI req;page;input;inputArea;outputArea;N
  ⍝ Puts a frontend on the involute function
+ 
  :If 0∊⍴req ⍝ no request: we're setting up
      page←⎕NEW Page
-     page.Size←400 500
+     page.Size←410 510
 
      page.Add _.Style'#num,#dir'('border-style' 'solid' 'margin' '0.5em' 'padding' '10px')
      page.Add _.title'IUI - The Involution UI'
