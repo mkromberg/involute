@@ -1,2 +1,2 @@
-# nyc19
-Demo for Meetup in NYC, Feb 7th 2019
+# Involute
+Demo for "New Ways of Working with APL" talks in the spring of 2019
